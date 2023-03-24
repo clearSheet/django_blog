@@ -1,6 +1,0 @@
-$ django-admin startproject mysite .
-Инициализация проекта
-точка ( . ) в конце указывает на то, что проект необходимо проинициализировать в текущей дирректории
-
-$ python manage.py makemigrations blog
-$ python manage.py migrate blog
